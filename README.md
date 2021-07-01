@@ -2,4 +2,4 @@
 Surface Pro 2017 i5 HD620 OpenCore EFI for 10.15.6 and 10.15.7 + Big Sur
 
 
-(DEVELOPMENT NOT WORKING FULLY YET)!!!!
+(DEVELOPMENT NOW WORKING)!!!!
