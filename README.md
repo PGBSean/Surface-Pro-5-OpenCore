@@ -1,5 +1,21 @@
-# Surface-Pro-2017-OpenCore-EFI
-Surface Pro 2017 i5 HD620 OpenCore EFI for MacOS Catalina, Big Sur and Monterey.
+# Surface-Pro-5-OpenCore
+
+This repo lets you download the EFI for the Surface Pro 5 lineup.
+
+WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 
 
-(DEVELOPMENT NOW WORKING)!!!!
+## This EFI applys to:
+
+|  Components             |         Requirements                |            Note                      |
+|-------------------------|-------------------------------------|--------------------------------------|
+|  |  | |
+|  |  | |
+|  |  | |
+
+## Bugs
+N/A
+
+
+## Tested versions
+N/A
