@@ -17,9 +17,9 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 
 
 ## This EFI contains:
-+ Mapped graphics
-+ Latest bug fixes from OpenCore
-+ Android tether support (HoRNDiS)
++ Mapped graphics & USB
++ Monthly bug fixes from OpenCore and associates
++ Android tethering support (HoRNDiS)
 
 ## Bugs
 + No camera support
