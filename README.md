@@ -10,6 +10,8 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 > Post-install procedure is required.
 
 ## Screenshot
+<img width="1368" alt="image" src="https://github.com/PGBSean/Surface-Pro-5-OpenCore/assets/97381104/6b836385-6148-4c61-88de-3711c060a834">
+
 
 
 ## This EFI contains:
