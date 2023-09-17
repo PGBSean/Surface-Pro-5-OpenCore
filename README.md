@@ -4,6 +4,8 @@ This repo lets you download the EFI for the Surface Pro 5 lineup.
 
 WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 
+**In anytime soon, this repository will be detached from Mrhomebrew's fork. This way there isn't a conflict between the twos.**
+
 ## Credits
 + Thanks to @MrHomebrew for the creation of the Surface Pro 5's EFI. Even though your EFI is really messed up, but I managed to fixed it.
 + Thanks to @Xiashangning for the BigSurface kext. This makes the type cover, touch, stylus works flawlessly on this machine!
