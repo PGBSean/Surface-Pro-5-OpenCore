@@ -21,6 +21,9 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 + No camera support
 > This is to be expected since BigSurface does not implement camera support yet.
 
++ No Windows Hello support
+> bffr when did macOS support face id
+
 
 ## Tested versions
 + macOS Catalina
