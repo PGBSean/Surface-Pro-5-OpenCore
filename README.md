@@ -21,6 +21,12 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 + Monthly bug fixes from OpenCore and associates
 + Android tethering support (HoRNDiS)
 
+## Installation:
+1. Download the latest EFI via [Releases](https://github.com/PGBSean/Surface-Pro-5-OpenCore/releases)
+2. Prepare USB via [OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#making-the-installer) **ONLY MOVE `com.apple.recovery.boot` FOLDER**
+3. Move downloaded EFI folder to USB
+4. Boot via USB and install MacOS
+
 ## Bugs
 + No camera support
 > This is to be expected since BigSurface does not implement camera support yet.
