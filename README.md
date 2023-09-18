@@ -4,7 +4,7 @@ This repo lets you download the EFI for the Surface Pro 5 lineup.
 
 WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 
-**In anytime soon, this repository will be detached from Mrhomebrew's fork. This way there isn't a conflict between the twos.**
+**Thank you for 100 views of this repository!**
 
 ## Credits
 + Thanks to @MrHomebrew for the creation of the Surface Pro 5's EFI. Even though your EFI is really messed up, but I managed to fixed it.
@@ -27,6 +27,11 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 
 + No Windows Hello support
 > bffr when did macOS support face id
+
++ No Wi-Fi & Bluetooth support
+
++ [?] No iServices
+> Not yet tested, but might be fixed in the next release ASAP.
 
 
 ## Tested versions
