@@ -4,7 +4,7 @@ This repo lets you download the EFI for the Surface Pro 5 lineup.
 
 WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 
-**Thank you for 100 views of this repository!**
+**Thank you for the support!**
 
 ## Credits
 + Thanks to @MrHomebrew for the creation of the Surface Pro 5's EFI. Even though your EFI is really messed up, but I managed to fixed it.
@@ -30,8 +30,8 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 
 + No Wi-Fi & Bluetooth support
 
-+ [?] No iServices
-> Not yet tested, but might be fixed in the next release ASAP.
++ No iServices
+> Not fixable if you use your Android phone to tether (through USB)
 
 
 ## Tested versions
