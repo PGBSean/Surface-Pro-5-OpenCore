@@ -22,10 +22,10 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 + Android tethering support (HoRNDiS)
 
 ## Installation:
-1. Download the latest EFI via [Releases](https://github.com/PGBSean/Surface-Pro-5-OpenCore/releases)
+1. Download the latest EFI via [Releases](https://github.com/PGBSean/Surface-Pro-5-OpenCore/releases/latest)
 2. Prepare USB via [OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#making-the-installer) **ONLY MOVE `com.apple.recovery.boot` FOLDER**
-3. Move downloaded EFI folder to USB
-4. Boot via USB and install MacOS
+3. Move the downloaded EFI folder to USB
+4. Boot via USB and install macOS
 
 ## Bugs
 + No camera support
@@ -35,9 +35,6 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 > bffr when did macOS support face id
 
 + No Wi-Fi & Bluetooth support
-
-+ No iServices
-> Not fixable if you use your Android phone to tether (through USB)
 
 
 ## Tested versions
