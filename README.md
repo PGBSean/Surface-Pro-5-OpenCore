@@ -1,3 +1,7 @@
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pgbsean/Surface-Pro-5-OpenCore/total) ![GitHub Created At](https://img.shields.io/github/created-at/pgbsean/Surface-Pro-5-OpenCore)
+
+
+
 # Surface-Pro-5-OpenCore
 
 This repo lets you download the EFI for the Surface Pro 5 lineup.
