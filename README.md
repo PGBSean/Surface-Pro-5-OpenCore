@@ -13,7 +13,7 @@ WARNING ⚠️: The EFI is **ONLY** educational purposes and is not affiliated w
 + Thanks to @Xiashangning for the BigSurface kext. This makes the type cover, touch, stylus works flawlessly on this machine!
 > Post-install [procedure](https://github.com/Xiashangning/IPTSDaemon) is required.
 + Thanks to @jlempen for adding microSD card support to the system, and eventually worked on this machine.
-+ Thanks to @0xFireWolf for your amazing `RealtekCardReader` project for bringing microSD card support.
++ Thanks to @0xFireWolf for your amazing `RealtekCardReader` project which brings microSD card support.
 
 ## Screenshot
 <img width="1368" alt="image" src="https://github.com/PGBSean/Surface-Pro-5-OpenCore/assets/97381104/6b836385-6148-4c61-88de-3711c060a834">
@@ -36,7 +36,7 @@ WARNING ⚠️: The EFI is **ONLY** educational purposes and is not affiliated w
 > This is to be expected since BigSurface does not implement camera support yet.
 
 + No Windows Hello support
-> bffr when did macOS support face id
+> be for real when did macOS support face id
 
 + No Wi-Fi & Bluetooth support
 
@@ -47,4 +47,5 @@ WARNING ⚠️: The EFI is **ONLY** educational purposes and is not affiliated w
 + macOS Monterey
 + macOS Ventura
 + macOS Sonoma
++ macOS Sequioa (?)
 
