@@ -47,5 +47,5 @@ WARNING ⚠️: The EFI is **ONLY** educational purposes and is not affiliated w
 + macOS Monterey
 + macOS Ventura
 + macOS Sonoma
-+ macOS Sequioa (?)
++ **[BETA]** macOS Sequioa
 
