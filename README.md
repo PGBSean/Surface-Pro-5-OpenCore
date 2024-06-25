@@ -25,7 +25,7 @@ WARNING ⚠️: The EFI is **ONLY** educational purposes and is not affiliated w
 + Monthly bug fixes from OpenCore and associates
 + Android tethering support (HoRNDiS)
 
-## Installation:
+## Installation (for Windows):
 1. Download the latest EFI via [Releases](https://github.com/PGBSean/Surface-Pro-5-OpenCore/releases/latest)
 2. Prepare USB via [OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#making-the-installer) **ONLY MOVE `com.apple.recovery.boot` FOLDER**
 3. Move the downloaded EFI folder to USB
@@ -39,6 +39,10 @@ WARNING ⚠️: The EFI is **ONLY** educational purposes and is not affiliated w
 > be for real when did macOS support face id
 
 + No Wi-Fi & Bluetooth support
+
++ No DRM acceleration
+
++ Hotter than usual
 
 
 ## Tested versions
