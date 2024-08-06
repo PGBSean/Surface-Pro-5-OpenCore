@@ -6,6 +6,8 @@
 
 This repo lets you download the EFI for the Surface Pro 5 lineup.
 
+Notice 🔔: I no longer have access to my Surface Pro 5. Any new bugs won't be straight forward, and PRs are welcome.
+
 WARNING ⚠️: The EFI is **ONLY** educational purposes and is not affiliated with neither Microsoft, Apple, nor the computer maker. You are responsible for the damage caused to your machine.
 
 ## Credits
