@@ -5,10 +5,11 @@
 # Surface-Pro-5-OpenCore
 
 This repo lets you download the EFI for the Surface Pro 5 lineup.
+>[!NOTE]
+>I no longer have access to my Surface Pro 5. Any new bugs won't be straight forward, and PRs are welcome.
 
-Notice 🔔: I no longer have access to my Surface Pro 5. Any new bugs won't be straight forward, and PRs are welcome.
-
-WARNING ⚠️: The EFI is **ONLY** educational purposes and is not affiliated with neither Microsoft, Apple, nor the computer maker. You are responsible for the damage caused to your machine.
+>[!CAUTION]
+>The EFI is **ONLY** educational purposes and is not affiliated with neither Microsoft, Apple, nor the computer maker. You are responsible for the damage caused to your machine.
 
 ## Credits
 + Thanks to @MrHomebrew for the creation of the Surface Pro 5's EFI. Even though your EFI is really messed up, but I managed to fixed it.
